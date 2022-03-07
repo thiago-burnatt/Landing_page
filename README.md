@@ -11,7 +11,7 @@ The purpose of this project was educational only, where several HTML and CSS fea
 The landing page is available at https://landing-page-thiago.netlify.app/
 <br>
 <br>
-[![Netlify Status](https://api.netlify.com/api/v1/badges/dbe126cf-3336-4dca-a082-7ddecda8e63e/deploy-status)](https://app.netlify.com/sites/timingsetter/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/700ee729-8d4a-4cef-93c1-654beacbc498/deploy-status)](https://app.netlify.com/sites/landing-page-thiago/deploys)
 <br>
 
 
